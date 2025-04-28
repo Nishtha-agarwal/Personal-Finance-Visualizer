@@ -1,0 +1,1 @@
+{"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"@radix-ui/react-select":"^2.2.2","class-variance-authority":"^0.7.1","lucide-react":"^0.503.0","mongoose":"^8.14.0","next":"^15.3.1","react":"^19.1.0","react-dom":"^19.1.0","recharts":"^2.15.3"},"devDependencies":{"@types/node":"22.15.2","@types/react":"19.1.2","typescript":"5.8.3"}}
